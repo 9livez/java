@@ -13,4 +13,8 @@ public class App
 
         // Develop #1
     }
+
+    public void myFunc () {
+        System.out.println("My feature");
+    }
 }
