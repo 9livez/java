@@ -16,5 +16,6 @@ public class App
 
     public void myFunc () {
         System.out.println("My feature");
+        // feature #2
     }
 }
