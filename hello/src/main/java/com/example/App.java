@@ -9,18 +9,8 @@ public class App
     public static void main( String[] args )
     {
         // Add some comment
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello Ubuntu!" );
 
         // Develop #1
-    }
-
-    public void myFunc () {
-        System.out.println("My feature");
-        // feature #2
-
-
-        // new feature
-
-        // Extra feature
     }
 }
