@@ -13,5 +13,8 @@ public class App
 
         // Develop branch
         System.out.println( "System branch update" );
+
+        // 共通処理部分、全てのブランチ用
+        System.out.println( "All branches use this" );
     }
 }
