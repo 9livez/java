@@ -11,6 +11,7 @@ public class App
         // Add some comment
         System.out.println( "Hello Ubuntu!" );
 
-        // Develop #1
+        // sub-branch
+        System.out.println( "Sub branch update" );
     }
 }
