@@ -12,6 +12,9 @@ public class App
         System.out.println( "Hello Ubuntu!" );
 
         // sub-branch
-        System.out.println( "Sub branch update" );
+        System.out.println( "Sub branch update" );;
+
+        // 共通処理部分、全てのブランチ用
+        System.out.println( "All branches use this" );
     }
 }
